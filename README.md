@@ -5,7 +5,7 @@ srclib (pronounced source library) is a free script tag to add to your website t
 install on webpage:
 add the following script tag to the <head> section.
 ```
- <script src="https://cdn.jsdelivr.net/gh/sssynk/srclib/srclib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/sssynk/srclib/srclib.js"></script>
  ```
  or
  ```
