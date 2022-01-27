@@ -8,7 +8,7 @@
 created by james wilson
 created for web design class, to add a show source button to the page to allow user to view the source code of the page
 
-v0.1 beta
+v1.0
 
 */
 
